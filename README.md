@@ -22,4 +22,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 整个项目需要注意的几点：
 1、使用vue-resource和axios请求数据的时候，请求成功后返回的数据格式有点诧异。
-！[image](https://github.com/Tang-Ni/My_Vue_Test/blob/master/screenshots/axios.png)
+！[image](https://github.com/Tang-Ni/My_Vue_Test/blob/master/screenshots/axios.png?raw=true)
