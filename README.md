@@ -17,7 +17,8 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-整个项目需要注意的几点：
+
+## 整个项目需要注意的几点：
 1、使用vue-resource和axios请求数据的时候，请求成功后返回的数据格式有点诧异。
 ***
 
