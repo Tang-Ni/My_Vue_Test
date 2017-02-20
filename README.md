@@ -24,4 +24,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 1、使用vue-resource和axios请求数据的时候，请求成功后返回的数据格式有点诧异。
 
  **Effect drawing:**
- ![image](https://github.com/Tang-Ni/My_Vue_Test/raw/master/screenshots/axios.png)
+ ![image](https://github.com/Tang-Ni/My_Vue_Test/raw/master/screenshots/axios.png)  ![image](https://github.com/Tang-Ni/My_Vue_Test/raw/master/screenshots/vue-resource.png)
