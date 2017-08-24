@@ -24,5 +24,5 @@ npm run build --report
 vue-resource和axios请求成功返回的数据格式如下图：
  
  </br>
- ![image](https://github.com/Tang-Ni/My_Vue_Test/raw/master/screenshots/vue-resource.png)</br>
- ![image](https://github.com/Tang-Ni/My_Vue_Test/raw/master/screenshots/axios.png)
+ ![image1](https://github.com/Tang-Ni/My_Vue_Test/raw/master/screenshots/vue-resource.png)</br>
+ ![image2](https://github.com/Tang-Ni/My_Vue_Test/raw/master/screenshots/axios.png)
