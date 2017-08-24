@@ -21,7 +21,5 @@ npm run build --report
 ## 整个项目需要注意的几点：
 1.1  使用vue-resource和axios请求数据的时候，请求成功后返回的数据格式有点差异。
 
-vue-resource和axios请求成功返回的数据格式如下图：
- 
- </br>
+vue-resource和axios请求成功返回的数据格式如下图
  ![img1](https://github.com/Tang-Ni/My_Vue_Test/raw/master/screenshots/vue-resource.png)
