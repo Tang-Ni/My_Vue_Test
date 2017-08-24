@@ -25,6 +25,5 @@ vue-resource和axios请求成功返回的数据格式如下图
   
  ![img1](https://github.com/Tang-Ni/My_Vue_Test/raw/master/screenshots/vue-resource.png)
  ![img2](https://github.com/Tang-Ni/My_Vue_Test/blob/master/screenshots/axios.png)
- *   Red
- *   Green
- *   Blue
+*   red
+*   blue
